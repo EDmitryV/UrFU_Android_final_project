@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>flag</key>
+    <value></value>
+  </entry>
+  <entry>
+    <key>url</key>
+    <value></value>
+  </entry>
+</defaults>

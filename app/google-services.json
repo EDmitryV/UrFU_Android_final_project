@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "206498079999",
+    "project_id": "raibow-goldstation",
+    "storage_bucket": "raibow-goldstation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206498079999:android:7579c9d34f54cacd8518ca",
+        "android_client_info": {
+          "package_name": "com.example.rainbowgoldstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206498079999-lsnij0d31aks7gf0209qt9ql0en2dvrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKILjsaRoItdy4w9d_a9u9t9A4SMvvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206498079999-lsnij0d31aks7gf0209qt9ql0en2dvrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206498079999:android:744daaefd3f1755c8518ca",
+        "android_client_info": {
+          "package_name": "com.marlerino.rainbowgoldstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206498079999-lsnij0d31aks7gf0209qt9ql0en2dvrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKILjsaRoItdy4w9d_a9u9t9A4SMvvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206498079999-lsnij0d31aks7gf0209qt9ql0en2dvrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RainbowGoldstation</string>
+    <string name="join_the_club">Join the club</string>
+    <string name="start">Start</string>
+    <string name="text_info">Your \nbattlestation \n# is:</string>
+    <string name="back">back</string>
+    <string name="stop">Stop</string>
+    <string name="press_stop">press\n\"Stop\"</string>
+    <string name="rainbow_goldstation">Rainbow\ngoldstation</string>
+    <string name="code">Code</string>
+    <string name="qr_code">QR code</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+</style>
+    <style name="RectangleElement">
+        <item name="android:layout_width">280dp</item>
+        <item name="android:layout_height">78dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:background">@drawable/element_background</item>
+        <item name="android:fontFamily">@font/inter_extra_bold</item>
+    </style>
+    <style name="MainButton" parent="RectangleElement">
+        <item name="android:textColor">@color/main</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+
+    <style name="MainContainer">
+        <item name="android:background">@drawable/container_background</item>
+        <item name="android:backgroundTint">@color/main</item>
+    </style>
+
+    <style name="InfoText">
+        <item name="android:textSize">27sp</item>
+        <item name="android:fontFamily">@font/ibm_plex_mono_regular</item>
+        <item name="android:textColor">@color/main</item>
+    </style>
+
+    <style name="TimerText">
+        <item name="android:textSize">36sp</item>
+        <item name="android:fontFamily">@font/inter_extra_bold</item>
+        <item name="android:textColor">@color/main</item>
+    </style>
+
+    <style name="CodeText" parent="RectangleElement">
+        <item name="android:backgroundTint">@color/main</item>
+        <item name="android:textColor">@color/second</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="PreviewText">
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">@font/ibm_plex_mono_bold</item>
+        <item name="android:textColor">@color/main</item>
+    </style>
+
+    <style name="PromptText">
+        <item name="android:fontFamily">@font/ibm_plex_mono_regular</item>
+        <item name="android:textColor">@color/second</item>
+    </style>
+
+    <style name="BackButton">
+        <item name="android:textSize">3.86sp</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textColor">@color/second</item>
+        <item name="android:background">@drawable/green_circle</item>
+        <item name="android:paddingStart">18dp</item>
+
+    </style>
+
+    <style name="HintButton">
+        <item name="android:textSize">3.86sp</item>
+        <item name="android:fontFamily">@font/ibm_plex_mono_regular</item>
+        <item name="android:textColor">@color/second</item>
+        <item name="android:background">@drawable/green_circle</item>
+        <item name="android:paddingStart">18dp</item>
+
+    </style>
+
+    <style name="Widget.Theme.RainbowGoldstation.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/second</item>
+    </style>
+
+    <style name="Widget.Theme.RainbowGoldstation.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/second</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="DeckColumn">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+</resources>
